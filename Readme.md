@@ -11,7 +11,7 @@
 
  - Interactive UI with dynamic updates.
  - DOM manipulation for real-time changes.
- - Simple and responsive design.
+ - Simple design.
 
 ## Technologies Used
 
