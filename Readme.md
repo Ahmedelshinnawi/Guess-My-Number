@@ -1,11 +1,11 @@
 # Guess My Number Game
 
-  A **Guess My Number** game inspired by Jonas Schmedtmann’s The Complete JavaScript Course. <br />
+  A **Guess My Number** game inspired by Jonas Schmedtmann’s **The Complete JavaScript Course**. <br />
   I built the **HTML** and **CSS** from scratch and implemented the **JavaScript** on my own.
 
 ## Project Overview
 
- This project focuses on DOM manipulation to make the game interactive.<br /> Players try to guess a random number, with feedback provided based on their input.
+ This project focuses on **DOM** manipulation to make the game interactive.<br /> Players try to guess a random number, with feedback provided based on their input.
 
 ## Features
 
