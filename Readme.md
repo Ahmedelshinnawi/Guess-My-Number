@@ -39,4 +39,4 @@ git clone https://github.com/Ahmedelshinnawi/Guess-My-Number.git
 
 ## Acknowledgments
 
- This project was from [Jonas Schmedtmann](https://github.com/jonasschmedtmann)’s The Complete JavaScript Course.
+ This project was from [**Jonas Schmedtmann**](https://github.com/jonasschmedtmann)’s **The Complete JavaScript Course**.
